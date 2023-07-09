@@ -1,0 +1,13 @@
+
+
+body{
+    border: 3px solid black;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+.maincontent{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
